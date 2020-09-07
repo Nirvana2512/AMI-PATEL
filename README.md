@@ -1,2 +1,2 @@
-# AMI-PATEL
+# LAVA App Page
 Student
